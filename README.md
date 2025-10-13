@@ -1,10 +1,16 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
-## https://youtu.be/BCp_5PoKrvI
+live-weather-dashboard
+📖 Definition
+The Live Weather Dashboard is a web-based application that provides real-time weather information for various locations around the world. It fetches live data from a weather API and displays current weather conditions such as temperature, humidity, wind speed, and weather forecasts in an intuitive and user-friendly interface.
 
-![klimate](https://github.com/user-attachments/assets/03aed8a9-f2e1-4fcf-8628-5d1abd0c678c)
+📝 Description
+This dashboard allows users to search for a city or use their current location to view up-to-date weather details. Designed for both desktop and mobile devices, the Live Weather Dashboard helps users stay informed about the weather anytime and anywhere. It may also include features like:
 
-### Make sure to create a `.env` file with following variables -
+Live temperature and weather condition updates
 
-```
-VITE_OPENWEATHER_API_KEY=
-```
+5-day or hourly weather forecasts
+
+Interactive UI with dynamic weather icons
+
+Geolocation support to fetch local weather
+
+Dark/light mode for better usability
